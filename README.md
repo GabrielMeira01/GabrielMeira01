@@ -1,6 +1,6 @@
 <h1> Olá, Me chamo<a href="https://github.com/GabrielMeira01"> Gabriel 🚀</a></h1>
 
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/GabrielMeira01)](https://github.com/Defcon27/) 
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/GabrielMeira01)](https://github.com/GabrielMeira01) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/gabriel-meira-de-oliveira-565a8a201/)
 
 ### Sou estudante de Engenharia de software, apaixonado por tecnologia
