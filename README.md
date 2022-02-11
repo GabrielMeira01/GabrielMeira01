@@ -1,0 +1,3 @@
+- 💕 Olá, eu me chamo Gabriel Meira de Oliveira
+- 🖖 tenho interesse em desenvolvimento(full-stack)
+- 🌱 Atualmente estou estudando HTML. CSS. Bootstrap, JavaScript, CShap, ASP.NET
