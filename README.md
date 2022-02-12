@@ -33,7 +33,5 @@
 ### 📄 Estatísticas 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielMeira01&theme=blue-green" />
-</div>
-<div align="center">
-  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+  <img align="center" src="https://github.com/GabrielMeira01/GabrielMeira01/blob/output/github-contribution-grid-snake.svg" />
 </div>
