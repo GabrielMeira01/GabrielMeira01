@@ -9,7 +9,7 @@
 
 <div align="right">
 🖖 Apaixonado por tecnologia -</br>
-💻 Estudante de Engenharia de software 5/8 -
+💻 Estudante de Engenharia de software 6/8 -
 </div> 
   
 <hr>
